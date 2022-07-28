@@ -3,4 +3,5 @@ Exemplo de API REST criada com o .NET 6 + ASP.NET Core para contagem de acessos 
 
 
 Aplicação para consumo das mensagens:
+
 **https://github.com/renatogroffe/DotNet6-WorkerService-ApacheKafka-SqlServer-OpenTelemetry-Jaeger_ContagemAcessos**
